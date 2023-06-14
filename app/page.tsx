@@ -103,7 +103,7 @@ export default function Home() {
               }}
             >
               <Link
-                href="https://github.com/Tameyer41/liftoff"
+                href="https://github.com/Ajay-Dhangar/ai-mock-interview"
                 target="_blank"
                 className="group rounded-full pl-[8px] min-w-[180px] pr-4 py-2 text-[13px] font-semibold transition-all flex items-center justify-center bg-[#1E2B3A] text-white hover:[linear-gradient(0deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), #0D2247] no-underline flex gap-x-2  active:scale-95 scale-100 duration-75"
                 style={{
